@@ -1,0 +1,11 @@
+import React from 'react'
+
+const Img = () => {
+  return (
+    <div>
+      <img id='img' src="https://images.unsplash.com/photo-1493612276216-ee3925520721?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tfGVufDB8fDB8fHww" alt="" />
+    </div>
+  )
+}
+
+export default Img
