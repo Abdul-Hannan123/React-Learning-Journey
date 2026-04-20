@@ -25,6 +25,7 @@ This repository contains organized folders for each day of learning, including c
 
 *  Day 01 – Basic Setup
 *  Day 02 – Learn about reactComponents
+*  Day 03 – Learn about reactProps
 * 🔜 More coming daily...
 
 ---
