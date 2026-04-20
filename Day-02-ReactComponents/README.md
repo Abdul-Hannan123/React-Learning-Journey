@@ -1,2 +1,2 @@
 # Day 02 
-today i learn about react components and how see how components work in react and how can we reuse it and i also made a small student card in which i add three components one is img, second is data and third is button and then export them to see how they works.
+today i learn about react components and see how components work in react and how can we reuse it and i also made a small student card in which i add three components one is img, second is data and third is button and then export them to see how they works.
