@@ -1,0 +1,16 @@
+h3{
+    background: yellowgreen;
+    padding: 24px;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+.btn{
+    padding: 23px 46px;
+    margin: 15px 8px;
+    background-color: aqua;
+    border: none;
+    outline: none;
+    font-size: 24px;
+    border-radius: 10px;
+}
