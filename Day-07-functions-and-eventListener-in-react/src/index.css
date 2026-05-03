@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+ max-width: 100vw;
+ max-height:100vh
+}
+input{
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px 20px;
+}
+#box1{
+  height: 300px;
+  width: 100%;
+  background-color: blanchedalmond;
+}
+#box2{
+  height: 300px;
+  width: 100%;
+  background-color: rgb(75, 249, 179);
+}
+#box3{
+  height: 300px;
+  width: 100%;
+  background-color: rgb(222, 205, 255);
+}
