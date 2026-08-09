@@ -30,6 +30,7 @@ This repository contains organized folders for each day of learning, including c
 *  Day 05 – CSS Modules
 *  Day 06 – UI-project-using-react-and-tailwindCSS
 *  Day 07 – Functions-and-eventListener-in-react
+*  Day 08 – Learning-Hooks-and-make-counterProject
 * 🔜 More coming daily...
 
 ---
