@@ -1,1 +1,10 @@
-Day-01: Today I have learnt basic structure of react and  how to make folders in react with vite
+# Day-01: React Basic Structure
+
+Today I learned the **basic structure of React** and how to create and organize folders in a React project using **Vite**.
+
+### Topics Covered
+
+* React project structure
+* Creating folders and components
+* Setting up a React project with Vite
+* Understanding basic React files
