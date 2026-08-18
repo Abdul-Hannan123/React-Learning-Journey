@@ -23,18 +23,18 @@ This repository contains organized folders for each day of learning, including c
 
 ## 📈 Progress
 
-*  Day 01 – Basic Setup
-*  Day 02 – Learn about reactComponents
-*  Day 03 – Learn about reactProps
-*  Day 04 – Mini project using props
-*  Day 05 – CSS Modules
+*  Day 01 – Basic-Setup
+*  Day 02 – Learn-about-reactComponents
+*  Day 03 – Learn-about-reactProps
+*  Day 04 – Mini-project-usingProps
+*  Day 05 – CSS-Modules
 *  Day 06 – UI-project-using-react-and-tailwindCSS
 *  Day 07 – Functions-and-eventListener-in-react
 *  Day 08 – Learning-Hooks-and-make-counterProject
 *  Day 09 – Learning-formHandling-and-Two-Way-Data-Binding
-*  Day 10 – Make notes project using Hooks
-*  Day 11 – Learn local storage and about Api Calling 
-* 🔜 More coming daily...
+*  Day 10 – Make-notes-project-using-Hooks
+*  Day 11 – Learn local-storage-and-about-Api-Calling 
+*  🔜 More coming daily...
 
 ---
 
@@ -43,6 +43,7 @@ This repository contains organized folders for each day of learning, including c
 * HTML
 * CSS
 * JavaScript
+* TailwindCSS
 * React JS
 
 ---
