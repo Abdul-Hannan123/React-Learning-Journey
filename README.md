@@ -33,6 +33,7 @@ This repository contains organized folders for each day of learning, including c
 *  Day 08 – Learning-Hooks-and-make-counterProject
 *  Day 09 – Learning-formHandling-and-Two-Way-Data-Binding
 *  Day 10 – Make notes project using Hooks
+*  Day 11 – Learn local storage and about Api Calling 
 * 🔜 More coming daily...
 
 ---
