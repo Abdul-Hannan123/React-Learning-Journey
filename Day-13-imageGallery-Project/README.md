@@ -1,16 +1,46 @@
-# React + Vite
+## 🖼️ Day-13: Image Gallery Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **Image Gallery** built with React JS using an API to fetch and display images dynamically.
 
-Currently, two official plugins are available:
+## 📌 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+In this project, I created an image gallery that displays **8 images per page**. Users can navigate between pages using **Previous** and **Next** buttons, and new images are automatically fetched from the API when the page changes.
 
-## React Compiler
+## 📸 Project Screenshot
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![alt text](image.png)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Fetch images from an API
+* Display 8 images per page
+* Previous and Next page navigation
+* Automatic data fetching when the page changes
+* Dynamic image and author display
+* Responsive layout using TailwindCSS
+
+## 🧠 Concepts Practiced
+
+* `useState` Hook
+* `useEffect` Hook
+* API Calling with Axios
+* Async/Await
+* Conditional Rendering
+* Array `map()` method
+* Props
+* Pagination
+* TailwindCSS
+
+## 🛠️ Technologies Used
+
+* React JS
+* TailwindCSS
+* Axios
+* JavaScript
+* Picsum Photos API
+
+## 🎯 Learning Outcome
+
+This project helped me get more practical experience with **React Hooks, API integration, pagination, state management, and automatic data fetching using `useEffect`**.
+
+---
