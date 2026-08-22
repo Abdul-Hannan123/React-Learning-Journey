@@ -14,4 +14,4 @@ Today I learned the basics of **React Router** and how routing works in React ap
 
 Created a simple NavBar with Three different pages and implemented navigation between them using **React Router**.
 
-![alt text](image.png)
+![alt text](practiceImg.png)
