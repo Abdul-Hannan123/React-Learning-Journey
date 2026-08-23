@@ -1,16 +1,52 @@
-# React + Vite
+# 🚀 Day-15: Advance React Routing Concepts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Today I learned and practiced the basic concepts of **React Routing** using React Router.
 
-Currently, two official plugins are available:
+## 📌 Topics Covered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Basic Routing
+Learned how to create different routes and display different components based on the URL.
 
-## React Compiler
+### 2. Nested Routing
+Learned how to create child routes inside a parent route and use `<Outlet />` to display nested components.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 3. Dynamic Routing
+Learned how to create dynamic routes using parameters such as `:id` and access them using `useParams()`.
 
-## Expanding the ESLint configuration
+### 4. 404 / Not Found Page
+Learned how to handle incorrect or unknown URLs by creating a **404 Not Found** page using a wildcard route.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 5. useNavigate
+Learned how to navigate between routes programmatically using the `useNavigate()` hook.
+
+## 🧠 Concepts Practiced
+
+- `BrowserRouter`
+- `Routes`
+- `Route`
+- `Link`
+- `Outlet`
+- `useParams()`
+- `useNavigate()`
+- Dynamic Routes
+- Nested Routes
+- 404 Not Found Route
+
+## 🛠️ Technologies Used
+
+- React JS
+- React Router DOM
+- JavaScript
+- Tailwind CSS
+
+## 📸 Project Screenshot
+
+![alt text](image.png)
+
+## 🎯 Learning Outcome
+
+Today's practice helped me understand how routing works in React and how to navigate between different pages, create nested and dynamic routes, handle invalid URLs, and navigate programmatically using React Router.
+
+---
+
+⭐ **Day-15 completed — continuing my React JS learning journey!**
