@@ -35,6 +35,9 @@ This repository contains organized folders for each day of learning, including c
 *  Day 10 – Make-notes-project-using-Hooks
 *  Day 11 – Learn local-storage-and-about-Api-Calling 
 *  Day 12 – Learn-about-useEffect-Hooks
+*  Day 13 – Make-Image-Gallery-Project
+*  Day 14 – Learn-about-React-Route-Basics
+*  Day 15 – Learn-Advanced-React-Routing-Concept (Nested-routes,Dynamic-routes,useNavigate,404-error)
 *  🔜 More coming daily...
 
 ---
