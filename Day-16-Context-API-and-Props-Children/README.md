@@ -1,16 +1,57 @@
-# React + Vite
+# 🚀 Day-16: Context API & Props Children
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Today I learned and practiced **React Context API** and the **children prop**.
 
-Currently, two official plugins are available:
+## 📌 Topics Covered
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1. Context API
 
-## React Compiler
+Learned how Context API helps share data between components without passing props through every level.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 2. createContext()
 
-## Expanding the ESLint configuration
+Learned how to create a context using `createContext()` and make shared data available to components.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 3. Provider
+
+Learned how to provide data to child components using a Context Provider.
+
+### 4. useContext()
+
+Learned how to access context data inside a component using the `useContext()` hook.
+
+### 5. Passing Data Through Context
+
+Practiced creating a context, passing data through the Provider, and consuming that data in another component.
+
+### 6. Props Children
+
+Learned how to pass content between the opening and closing tags of a component.
+
+## 🧠 Concepts Practiced
+
+ createContext()
+ Context Provider
+ useContext()
+ Sharing data between components
+ Avoiding unnecessary prop drilling
+ Passing data through Context
+ props.children
+ Passing components/content as children
+ Reusable components
+
+## 🛠️ Technologies Used
+
+ React JS
+ JavaScript
+ Context API
+
+## 🎯 Learning Outcome
+
+ Today's practice helped me understand how to share data between React components using Context API and how the children prop allows components to receive and render content placed between their opening and closing tags.
+
+I also practiced creating a Context, providing data through a Provider, consuming that data using useContext(), and understanding how props.children works with reusable components.
+
+⭐ Day-16 completed — continuing my React JS learning journey!
+
+ ---
