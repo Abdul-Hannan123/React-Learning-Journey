@@ -30,21 +30,21 @@ Learned how to pass content between the opening and closing tags of a component.
 
 ## 🧠 Concepts Practiced
 
- createContext()
- Context Provider
- useContext()
- Sharing data between components
- Avoiding unnecessary prop drilling
- Passing data through Context
- props.children
- Passing components/content as children
- Reusable components
+- `createContext()`
+- Context Provider
+- `useContext()`
+- Sharing data between components
+- Avoiding unnecessary prop drilling
+- Passing data through Context
+- `props.children`
+- Passing components/content as children
+- Reusable components
 
 ## 🛠️ Technologies Used
 
- React JS
- JavaScript
- Context API
+- React JS
+- JavaScript
+- Context API
 
 ## 🎯 Learning Outcome
 
