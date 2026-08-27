@@ -40,3 +40,38 @@ This makes React applications:
 - ✅ Easier to maintain
 
 ---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (JSX)
+- HTML
+- CSS
+
+---
+
+🎯 Key Takeaways
+
+## Today I learned that:
+
+- React applications are made up of components.
+ -Components allow us to divide the UI into smaller parts.
+- Components can be reused throughout an application.
+- Components can be exported and imported between files.
+- Multiple components can be combined to create a complete UI.
+- Breaking a UI into components makes the code more organized and maintainable.
+
+---
+
+## Screen-shot of mini_project 
+
+![alt text](image.png)
+
+---
+
+## 👨‍💻 Author
+- Abdul Hannan
+
+- Computer Science Student | Front-End Developer | Aspiring MERN Stack Developer
+
+- Currently learning React.js and working toward becoming a MERN Stack Developer.
