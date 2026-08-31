@@ -46,6 +46,4 @@ It also gave me practical experience with `createSlice()`, `useDispatch()`, and 
 
 ## 📸 Screenshot
 
-_Add your project screenshot here._
-
-![Redux Toolkit Counter](./screenshot.png)
+![alt text](image.png)
