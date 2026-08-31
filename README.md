@@ -39,6 +39,7 @@ This repository contains organized folders for each day of learning, including c
 *  Day 14 – Learn-about-React-Route-Basics
 *  Day 15 – Learn-Advanced-React-Routing-Concept (Nested-routes,Dynamic-routes,useNavigate,404-error)
 *  Day 16 – Learn-about-Context-Api-and-Props-Children
+*  Day 1 – Learn-about-Redux-Toolkit-Basics-And-Build-Counter
 *  🔜 More coming daily...
 
 ---
